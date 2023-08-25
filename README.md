@@ -1,7 +1,10 @@
 <h1>| Hi, I'm Bianca Fontes! 🫶</h1>
 
-<h4>At the moment I'm studying Information Systems at IFMG - São João Evangelista. I am passionate about computers, games, technology in general.<br></br>
-I recently discovered a love for programming and I want to change people's lives with it, making things easier, more practical and accessible!</h4>
+<h4>Full Stack Jr. Developer, studying Information Systems. Since my commencement in the development industry in 2023, I hold a strong sense of enthusiasm towards novel technologies and am continually acquiring knowledge and skills on a daily basis.
+
+ I am focused on developing with Javascript and other technologies used for high-level and value-added web/mobile development.
+
+ I am a person who regards myself as pragmatic when acquiring a new language and creative when constructing a project. I enjoy challenging myself to acquire new knowledge on a daily basis.</h4>
 
 <h2>| Status</h2>
 
