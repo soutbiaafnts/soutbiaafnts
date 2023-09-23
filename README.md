@@ -19,7 +19,7 @@
 </div>
 
 <h2>| Daily.dev</h2>
-<a href="https://app.daily.dev/coutbiaafnts"><img src="https://api.daily.dev/devcards/00627eca20304c33b1dc446f5e5ba2d3.png?r=8fm" width="280" alt="Bianca de Castro Aguiar Fontes's Dev Card"/></a>
+<a href="https://app.daily.dev/coutbiaafnts"><img src="https://api.daily.dev/devcards/00627eca20304c33b1dc446f5e5ba2d3.png?r=ffk" width="400" alt="Bianca Fontes's Dev Card"/></a>
 
 <h2>| Links</h2>
 
