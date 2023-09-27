@@ -29,14 +29,8 @@
     <a href="https://www.linkedin.com/in/bianca-fontes-056788285/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></img>
     </a>
-    <a href="https://www.twitch.tv/coutbiaafnts" target="_blank">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></img>
-    </a>
     <a href="https://twitter.com/coutbiaafnts" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></img>
-    </a>
-    <a href="https://www.youtube.com/channel/UChFbD46VA0edl5FGjT6kl7w" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></img>
     </a>
     <a href="mailto:bia.fontes653@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></img>
