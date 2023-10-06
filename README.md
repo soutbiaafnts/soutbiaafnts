@@ -1,12 +1,13 @@
 <h1>| Hi, I'm Bianca Fontes! 💙</h1>
-
+    
 <h4>Full Stack Jr. Developer, studying Information Systems. Since my commencement in the development industry in 2023, I hold a strong sense of enthusiasm towards novel technologies and am continually acquiring knowledge and skills on a daily basis.</br>I am focused on developing with Javascript and other technologies used for high-level and value-added web/mobile development.</br>I am a person who regards myself as pragmatic when acquiring a new language and creative when constructing a project. I enjoy challenging myself to acquire new knowledge on a daily basis.</h4>
 
 <h2>| Status</h2>
 
-![coutbiaafnts GitHub stats](https://github-readme-stats.vercel.app/api?username=coutbiaafnts&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coutbiaafnts&layout=compact&theme=github_dark)
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=coutbiaafnts&show_icons=true&theme=github_dark" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutbiaafnts&layout=compact&theme=github_dark" height="150">
+</div>
 
 <h2>| Known languages</h2>
 
@@ -16,9 +17,6 @@
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
     <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
 </div>
-
-<h2>| Daily.dev</h2>
-<a href="https://app.daily.dev/coutbiaafnts"><img src="https://api.daily.dev/devcards/00627eca20304c33b1dc446f5e5ba2d3.png?r=ffk" width="400" alt="Bianca Fontes's Dev Card"/></a>
 
 <h2>| Links</h2>
 
