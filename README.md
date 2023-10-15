@@ -5,8 +5,9 @@
 <h2>| Status</h2>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=coutbiaafnts&show_icons=true&theme=github_dark" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutbiaafnts&layout=compact&theme=github_dark" height="150">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=coutbiaafnts&theme=github-dark-blue&mode=daily" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=coutbiaafnts&show_icons=true&theme=github_dark" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutbiaafnts&layout=compact&theme=github_dark" height="150">
 </div>
 
 <h2>| Known languages</h2>
