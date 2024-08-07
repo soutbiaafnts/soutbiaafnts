@@ -5,18 +5,31 @@
 <h2>| Status</h2>
 
 <div>
-    <!--<img src="https://github-readme-streak-stats.herokuapp.com?user=coutbiaafnts&theme=github-dark-blue&mode=daily" height="150"/>-->
-    <img src="https://github-readme-stats.vercel.app/api?username=coutbiaafnts&show_icons=true&theme=github_dark" height="150">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutbiaafnts&layout=compact&theme=github_dark" height="150">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=coutbiaafnts&theme=noctis_minimus&mode=daily" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=coutbiaafnts&show_icons=true&theme=noctis_minimus" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutbiaafnts&layout=compact&theme=noctis_minimus&hide_progress=true" height="150">
 </div>
 
-<h2>| Studying</h2>
+<h2>| Pins</h2>
 
 <div>
-    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
-    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
+    <a href="https://github.com/coutbiaafnts/devlinks" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=devlinks&layout=compact&theme=noctis_minimus&hide_progress=true" height="150">
+    </a>
+    <a href="https://github.com/coutbiaafnts/nlw-experts-notes" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=nlw-experts-notes&layout=compact&theme=noctis_minimus&hide_progress=true" height="150">
+    </a>
+    <a href="https://github.com/coutbiaafnts/curso-javascript" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=curso-javascript&layout=compact&theme=noctis_minimus&hide_progress=true" height="150">
+    </a>
+</div>
+
+<div>
+    <!-- <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/> -->
+    <!--<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/> -->
+    <!-- <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/> -->
+    <!-- <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/> -->
+
 </div>
 
 <h2>| Links</h2>
