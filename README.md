@@ -33,9 +33,16 @@
 <h2>| Links</h2>
 
 <div>
-    <img alt="Static Badge" src="https://img.shields.io/badge/-rgb(28%2C%2042%2C%2051)?style=flat&logo=linkedin&logoColor=rgb(113%2C%20182%2C%20191)&logoSize=auto&label=Bianca%20Fontes&labelColor=rgb(28%2C%2042%2C%2051)&color=rgb(113%2C%20182%2C%20191)&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbianca-fontes-056788285%2F">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-rgb(28%2C%2042%2C%2051)?style=flat&logo=figma&logoColor=rgb(113%2C%20182%2C%20191)&logoSize=auto&label=coutbiaafnts&labelColor=rgb(28%2C%2042%2C%2051)&color=rgb(113%2C%20182%2C%20191)&link=https%3A%2F%2Fwww.figma.com%2F%40coutbiaafnts">
-   <img alt="Static Badge" src="https://img.shields.io/badge/-rgb(28%2C%2042%2C%2051)?style=flat&logo=instagram&logoColor=rgb(113%2C%20182%2C%20191)&logoSize=auto&label=coutbiaafnts&labelColor=rgb(28%2C%2042%2C%2051)&color=rgb(113%2C%20182%2C%20191)&link=https%3A%2F%2Fwww.instagram.com%2Fcoutbiaafnts%2F">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-rgb(28%2C%2042%2C%2051)?style=flat&logo=x&logoColor=rgb(113%2C%20182%2C%20191)&logoSize=auto&label=coutbiaafnts&labelColor=rgb(28%2C%2042%2C%2051)&color=rgb(113%2C%20182%2C%20191)&link=https%3A%2F%2Fx.com%2Fcoutbiaafnts">
+    <a href="https://www.linkedin.com/in/bianca-fontes-056788285/">
+        <img alt="Static Badge" src="https://img.shields.io/badge/-rgb(28%2C%2042%2C%2051)?style=flat&logo=linkedin&logoColor=rgb(113%2C%20182%2C%20191)&logoSize=auto&label=Bianca%20Fontes&labelColor=rgb(28%2C%2042%2C%2051)&color=rgb(113%2C%20182%2C%20191)">
+    </a>
+    <a href="https://www.figma.com/@coutbiaafnts">
+        <img alt="Static Badge" src="https://img.shields.io/badge/-rgb(28%2C%2042%2C%2051)?style=flat&logo=figma&logoColor=rgb(113%2C%20182%2C%20191)&logoSize=auto&label=coutbiaafnts&labelColor=rgb(28%2C%2042%2C%2051)&color=rgb(113%2C%20182%2C%20191)&link=https%3A%2F%2Fwww.figma.com%2F%40coutbiaafnts">
+    </a>
+    <a href="https://www.instagram.com/coutbiaafnts">
+        <img alt="Static Badge" src="https://img.shields.io/badge/-rgb(28%2C%2042%2C%2051)?style=flat&logo=instagram&logoColor=rgb(113%2C%20182%2C%20191)&logoSize=auto&label=coutbiaafnts&labelColor=rgb(28%2C%2042%2C%2051)&color=rgb(113%2C%20182%2C%20191)">
+    </a>
+    <a href="https://x.com/coutbiaafnts">
+        <img alt="Static Badge" src="https://img.shields.io/badge/-rgb(28%2C%2042%2C%2051)?style=flat&logo=x&logoColor=rgb(113%2C%20182%2C%20191)&logoSize=auto&label=coutbiaafnts&labelColor=rgb(28%2C%2042%2C%2051)&color=rgb(113%2C%20182%2C%20191)">
+    </a>
 </div>
-
