@@ -5,7 +5,7 @@
 <h2>| GitHub Stats </h2>
 
 <div>
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=coutbiaafnts&layout=compact&show_icons=true&theme=noctis_minimus&include_all_commits=true">
+    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=coutbiaafnts&layout=compact&show_icons=true&theme=noctis_minimus">
     <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutbiaafnts&layout=compact&theme=noctis_minimus&hide_progress=true"
 </div>
 
