@@ -5,21 +5,21 @@
 <h2>| GitHub Stats </h2>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=coutbiaafnts&show_icons=true&theme=noctis_minimus" width="40%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutbiaafnts&layout=compact&theme=noctis_minimus&hide_progress=true" width="40%">
+    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=coutbiaafnts&layout=compact&show_icons=true&theme=noctis_minimus&include_all_commits=true&custom_title=coutbiaafnts's stats">
+    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutbiaafnts&layout=compact&theme=noctis_minimus&hide_progress=true"
 </div>
 
 <h2>| Nice repositories</h2>
 
 <div>
     <a href="https://github.com/coutbiaafnts/devlinks" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=devlinks&layout=compact&theme=noctis_minimus&hide_progress=true" height="150">
+        <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=devlinks&layout=compact&theme=noctis_minimus&hide_progress=true">
     </a>
     <a href="https://github.com/coutbiaafnts/nlw-experts-notes" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=nlw-experts-notes&layout=compact&theme=noctis_minimus&hide_progress=true" height="150">
+        <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=nlw-experts-notes&layout=compact&theme=noctis_minimus&hide_progress=true">
     </a>
     <a href="https://github.com/coutbiaafnts/curso-javascript" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=curso-javascript&layout=compact&theme=noctis_minimus&hide_progress=true" height="150">
+        <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=curso-javascript&layout=compact&theme=noctis_minimus&hide_progress=true">
     </a>
 </div>
 
