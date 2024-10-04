@@ -19,7 +19,7 @@
         <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=nlw-experts-notes&layout=compact&theme=noctis_minimus&hide_progress=true">
     </a>
     <a href="https://github.com/coutbiaafnts/java-devdojo" target="_blank">
-        <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=/java-devdojo&layout=compact&theme=noctis_minimus&hide_progress=true">
+        <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=java-devdojo&layout=compact&theme=noctis_minimus&hide_progress=true">
     </a>
 </div>
 
