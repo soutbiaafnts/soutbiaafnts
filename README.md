@@ -6,7 +6,7 @@
 
 <div>
     <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=coutbiaafnts&layout=compact&show_icons=true&theme=noctis_minimus">
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutbiaafnts&layout=compact&theme=noctis_minimus&hide_progress=true"
+    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutbiaafnts&layout=compact&theme=noctis_minimus&hide_progress=false"
 </div>
 
 <h2>| Nice repositories</h2>
