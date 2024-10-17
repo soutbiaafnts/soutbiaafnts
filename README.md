@@ -30,6 +30,9 @@
     <!-- <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/> -->
 </div>
 
+<h2>| Daily.dev</h2>
+<a href="https://app.daily.dev/coutbiaafnts"><img src="https://api.daily.dev/devcards/v2/UGOuT2jAYe8i4UCCNrhY1.png?r=1ii&type=wide" width="652" alt="Bianca Fontes's Dev Card"/></a>
+
 <h2>| Links</h2>
 
 <div>
