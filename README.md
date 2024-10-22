@@ -9,6 +9,7 @@
     <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutbiaafnts&layout=compact&theme=noctis_minimus&hide_progress=false"
 </div>
 
+<!--
 <h2>| Nice repositories</h2>
 
 <div>
@@ -21,17 +22,10 @@
     <a href="https://github.com/coutbiaafnts/java-devdojo" target="_blank">
         <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=java-devdojo&layout=compact&theme=noctis_minimus&hide_progress=true">
     </a>
-</div>
-
-<div>
-    <!-- <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/> -->
-    <!--<img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/> -->
-    <!-- <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/> -->
-    <!-- <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/> -->
-</div>
+</div> -->
 
 <h2>| Daily.dev</h2>
-<a href="https://app.daily.dev/coutbiaafnts"><img src="https://api.daily.dev/devcards/v2/UGOuT2jAYe8i4UCCNrhY1.png?r=1ii&type=wide" width="652" alt="Bianca Fontes's Dev Card"/></a>
+<a href="https://app.daily.dev/coutbiaafnts"><img src="https://api.daily.dev/devcards/v2/UGOuT2jAYe8i4UCCNrhY1.png?r=1ii&type=wide" width="352"  alt="Bianca Fontes's Dev Card"/></a>
 
 <h2>| Links</h2>
 
