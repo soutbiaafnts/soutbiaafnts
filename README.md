@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70ADB5&height=120&section=header"/>
 <h1>| Hi, I'm Bianca Fontes! 💚</h1>
     
 <h4>Full Stack Jr. Developer, studying Information Systems. Since my commencement in the development industry in 2023, I hold a strong sense of enthusiasm towards novel technologies and am continually acquiring knowledge and skills on a daily basis.</br>I am focused on developing with Javascript and other technologies used for high-level and value-added web/mobile development.</br>I am a person who regards myself as pragmatic when acquiring a new language and creative when constructing a project. I enjoy challenging myself to acquire new knowledge on a daily basis.</h4>
