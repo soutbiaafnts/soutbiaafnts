@@ -25,11 +25,6 @@
     </a>
 </div> -->
 
-<h2>| Daily.dev</h2>
-<a href="https://app.daily.dev/coutbiaafnts"><img src="https://api.daily.dev/devcards/v2/UGOuT2jAYe8i4UCCNrhY1.png?r=1ii&type=wide" width="352"  alt="Bianca Fontes's Dev Card"/></a>
-
-<h2>| Links</h2>
-
 <div>
     <a href="https://www.linkedin.com/in/bianca-fontes-056788285/" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/-rgb(28%2C%2042%2C%2051)?style=flat&logo=linkedin&logoColor=rgb(113%2C%20182%2C%20191)&logoSize=auto&label=Bianca%20Fontes&labelColor=rgb(28%2C%2042%2C%2051)&color=rgb(113%2C%20182%2C%20191)">
