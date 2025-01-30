@@ -22,22 +22,11 @@
 
 <div>
     <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=coutbiaafnts&layout=compact&show_icons=true&theme=noctis_minimus">
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutbiaafnts&layout=compact&theme=noctis_minimus&hide_progress=false"
+    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutbiaafnts&layout=compact&theme=noctis_minimus&hide_progress=false">
 </div>
 
-<!--
-<h2>| Nice repositories</h2>
-
-<div>
-    <a href="https://github.com/coutbiaafnts/devlinks" target="_blank">
-        <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=devlinks&layout=compact&theme=noctis_minimus&hide_progress=true">
-    </a>
-    <a href="https://github.com/coutbiaafnts/nlw-experts-notes" target="_blank">
-        <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=nlw-experts-notes&layout=compact&theme=noctis_minimus&hide_progress=true">
-    </a>
-    <a href="https://github.com/coutbiaafnts/java-devdojo" target="_blank">
-        <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=coutbiaafnts&repo=java-devdojo&layout=compact&theme=noctis_minimus&hide_progress=true">
-    </a>
-</div> -->
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coutbiaafnts/coutbiaafnts/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coutbiaafnts/coutbiaafnts/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coutbiaafnts/coutbiaafnts/output/github-contribution-grid-snake.svg">
+</picture>
