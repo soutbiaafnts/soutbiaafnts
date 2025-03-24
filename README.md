@@ -21,12 +21,12 @@
 <h2>| GitHub Stats </h2>
 
 <div>
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=coutbiaafnts&layout=compact&show_icons=true&theme=noctis_minimus">
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutbiaafnts&layout=compact&theme=noctis_minimus&hide_progress=false">
+    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=soutbiaafnts&layout=compact&show_icons=true&theme=noctis_minimus">
+    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soutbiaafnts&layout=compact&theme=noctis_minimus&hide_progress=false">
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coutbiaafnts/coutbiaafnts/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coutbiaafnts/coutbiaafnts/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coutbiaafnts/coutbiaafnts/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soutbiaafnts/soutbiaafnts/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soutbiaafnts/soutbiaafnts/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soutbiaafnts/soutbiaafnts/output/github-contribution-grid-snake.svg">
 </picture>
