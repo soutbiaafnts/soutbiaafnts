@@ -8,11 +8,11 @@
     <a href="https://www.figma.com/@coutbiaafnts" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/-rgb(28%2C%2042%2C%2051)?style=flat&logo=figma&logoColor=rgb(113%2C%20182%2C%20191)&logoSize=auto&label=coutbiaafnts&labelColor=rgb(28%2C%2042%2C%2051)&color=rgb(113%2C%20182%2C%20191)&link=https%3A%2F%2Fwww.figma.com%2F%40coutbiaafnts">
     </a>
-    <a href="https://www.instagram.com/coutbiaafnts" target="_blank">
-        <img alt="Static Badge" src="https://img.shields.io/badge/-rgb(28%2C%2042%2C%2051)?style=flat&logo=instagram&logoColor=rgb(113%2C%20182%2C%20191)&logoSize=auto&label=coutbiaafnts&labelColor=rgb(28%2C%2042%2C%2051)&color=rgb(113%2C%20182%2C%20191)">
+    <a href="https://www.instagram.com/soutbiaafnts" target="_blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/-rgb(28%2C%2042%2C%2051)?style=flat&logo=instagram&logoColor=rgb(113%2C%20182%2C%20191)&logoSize=auto&label=soutbiaafnts&labelColor=rgb(28%2C%2042%2C%2051)&color=rgb(113%2C%20182%2C%20191)">
     </a>
-    <a href="https://x.com/coutbiaafnts" target="_blank">
-        <img alt="Static Badge" src="https://img.shields.io/badge/-rgb(28%2C%2042%2C%2051)?style=flat&logo=x&logoColor=rgb(113%2C%20182%2C%20191)&logoSize=auto&label=coutbiaafnts&labelColor=rgb(28%2C%2042%2C%2051)&color=rgb(113%2C%20182%2C%20191)">
+    <a href="https://x.com/soutbiaafnts" target="_blank">
+        <img alt="Static Badge" src="https://img.shields.io/badge/-rgb(28%2C%2042%2C%2051)?style=flat&logo=x&logoColor=rgb(113%2C%20182%2C%20191)&logoSize=auto&label=soutbiaafnts&labelColor=rgb(28%2C%2042%2C%2051)&color=rgb(113%2C%20182%2C%20191)">
     </a>
 </div>
     
