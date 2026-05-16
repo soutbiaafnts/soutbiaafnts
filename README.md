@@ -58,8 +58,8 @@ My name is Bianca and I'm 23 years old. I'm a full-stack developer in training, 
 ## GitHub Stats
 <div display="flex" gap="4px" align="center">
     <img height=140 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soutbiaafnts&layout=compact&show_icons=true&theme=noctis_minimus">
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=soutbiaafnts&layout=compact&show_icons=true&theme=noctis_minimus">
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soutbiaafnts&layout=compact&theme=noctis_minimus&hide_progress=false">
+    <!-- <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=soutbiaafnts&layout=compact&show_icons=true&theme=noctis_minimus"> -->
+    <!-- <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soutbiaafnts&layout=compact&theme=noctis_minimus&hide_progress=false"> -->
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70ADB5&height=120&section=footer"/>
