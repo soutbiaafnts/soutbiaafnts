@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70ADB5&height=120&section=header"/>
 
 # Hi, nice to meet you! 
-My name is Bianca and I'm 23 years old. I'm a full-stack developer in training, an Information Systems student, interested in building technological solutions that generate real impact. My work involves web development and data analysis, always striving to combine logic, organization, and practical vision in problem-solving.
+My name is Bianca and I'm 23 years old. I'm a backend developer in training, an Information Systems student, interested in building technological solutions that generate real impact. My work involves web development and data analysis, always striving to combine logic, organization, and practical vision in problem-solving.
 
 <div display="flex" gap="4px"><br>
  <a href="https://www.linkedin.com/in/bianca-fontes-056788285/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
