@@ -11,22 +11,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=72B7C0&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Bianca;Welcome+to+my+place" alt="Typing SVG" />
   </a>
   <br>
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=d3b692&center=true&vCenter=true&width=435&lines=Backend+Developer;CFO+and+CMO+@+Triadcoder" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=d3b692&center=true&vCenter=true&width=435&lines=Backend+Developer;CFO+and+CMO+@+Triadcoder" alt="Typing SVG" /></a>
   <br>
-  <a href="https://github.com/triadcoder-org" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Triadcoder-Visit-72b7c0?logo=github&logoColor=white" alt="Triadcoder's GitHub" />
-  </a>
-  <a href="https://www.instagram.com/soutbiaafnts/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-Visit-72b7c0?logo=instagram&logoColor=white" alt="Bianca's Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/bianca-fontes-056788285/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Visit-72b7c0?logo=linkedin&logoColor=white" alt="Bianca's LinkedIn" />
-  </a>
-  <a href="mailto:bianca.fontes.dev@gmail.com" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Gmail-Sent-72b7c0?logo=gmail&logoColor=white" alt="Bianca's Gmail" />
-  </a>
+  <a href="https://github.com/triadcoder-org" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Triadcoder-Visit-72b7c0?logo=github&logoColor=white" alt="Triadcoder's GitHub" /></a>
+  <a href="https://www.instagram.com/soutbiaafnts/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-Visit-72b7c0?logo=instagram&logoColor=white" alt="Bianca's Instagram" /></a>
+  <a href="https://www.linkedin.com/in/bianca-fontes-056788285/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Visit-72b7c0?logo=linkedin&logoColor=white" alt="Bianca's LinkedIn" /></a>
+  <a href="mailto:bianca.fontes.dev@gmail.com" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Gmail-Sent-72b7c0?logo=gmail&logoColor=white" alt="Bianca's Gmail" /></a>
 </h1>
 
 <!-- STATS -->
