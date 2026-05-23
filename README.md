@@ -2,9 +2,6 @@
 
 <!-- HEADER -->
 <h1 align="center">
-  <a href="https://github.com/soutbiaafnts?tab=followers" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/soutbiaafnts?logo=person-add&style=social&logoColor=black" alt="Typing SVG" />
-  </a>
   <!-- <br> -->
   <br>
   <a href="https://git.io/typing-svg" target="_blank">
