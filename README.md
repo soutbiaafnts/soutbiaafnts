@@ -46,6 +46,19 @@
   </a>
 </h3>
 <div align="left">
+  <a href="https://www.php.net/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/PHP-474A8A?logo=php&logoColor=white" alt="PHP" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" /></a>
+  <a href="https://codeigniter.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/CodeIgniter4-EF4223?logo=codeigniter&logoColor=white" alt="CodeIgniter 4" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/HTML5-E34C26?logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/CSS-663399?logo=css3&logoColor=white" alt="CSS3" /></a>
+</div>
+
+<h3>
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=D3B692&vCenter=true&width=435&lines=Second+stack" alt="Typing SVG" />
+  </a>
+</h3>
+<div align="left">
   <a href="https://www.java.com/pt-BR/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Java-orange?logo=java&logoColor=white" alt="Java" /></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Springboot-6DB33F?logo=springboot&logoColor=white" alt="Springboot" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
@@ -53,18 +66,6 @@
   <a href="https://legacy.reactjs.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/React.js-00599C?logo=react&logoColor=white" alt="React.js" /></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/HTML5-E34C26?logo=html5&logoColor=white" alt="HTML5" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="TailwindCSS" /></a>
-</div>
-<h3>
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=D3B692&vCenter=true&width=435&lines=Second+stack" alt="Typing SVG" />
-  </a>
-</h3>
-<div align="left">
-  <a href="https://www.php.net/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/PHP-474A8A?logo=php&logoColor=white" alt="PHP" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" /></a>
-  <a href="https://codeigniter.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/CodeIgniter4-EF4223?logo=codeigniter&logoColor=white" alt="CodeIgniter 4" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/HTML5-E34C26?logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/CSS-663399?logo=css3&logoColor=white" alt="CSS3" /></a>
 </div>
 
 <!-- TOOLS -->
