@@ -36,9 +36,9 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=soutbiaafnts&locale=en&mode=daily&theme=noctis_minimus&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D&order=3" height="120" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/soutbiaafnts/soutbiaafnts/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="120" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/soutbiaafnts/soutbiaafnts/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=noctis_minimus&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=soutbiaafnts&locale=en&mode=daily&theme=noctis_minimus&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/soutbiaafnts/soutbiaafnts/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=false&order=1&custom_title=My%20Stats" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/soutbiaafnts/soutbiaafnts/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=noctis_minimus&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
