@@ -19,16 +19,16 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/bianca-fontes-056788285/" target="_blank">
+  <a style="text-decoration: none; color: inherit;" href="https://www.linkedin.com/in/bianca-fontes-056788285/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Visit&logo=linkedin&label=LinkedIn&color=619a9b&logoColor=white&labelColor=535353&style=flat" height="20" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/soutbiaafnts" target="_blank">
+  <a style="text-decoration: none; color: inherit;" href="https://www.instagram.com/soutbiaafnts" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Visit&logo=instagram&label=Instagram&color=619a9b&logoColor=white&labelColor=535353&style=flat" height="20" alt="instagram logo"  />
   </a>
-  <a href="https://open.spotify.com/user/21d6rg5gvkuobmzu2lxfavt5a?si=851d26cb8fa64ee1" target="_blank">
+  <a style="text-decoration: none; color: inherit;" href="https://open.spotify.com/user/21d6rg5gvkuobmzu2lxfavt5a?si=851d26cb8fa64ee1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Visit&logo=spotify&label=Spotify&color=619a9b&logoColor=white&labelColor=535353&style=flat" height="20" alt="spotify logo"  />
   </a>
-  <a href="mailto:bianca.fontes.dev@gmail.com" target="_blank">
+  <a style="text-decoration: none; color: inherit;" href="mailto:bianca.fontes.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Sent&logo=gmail&label=Gmail&color=619a9b&logoColor=white&labelColor=535353&style=flat" height="20" alt="gmail logo"  />
   </a>
 </div>
